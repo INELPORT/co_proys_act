@@ -97,4 +97,4 @@ Veldenz-V1
 Weinähr-V4.3.0
 Winden-V3.11.6
 Zimmerschied-V4.3.0
-CONTROL-OBRA-TEMPLATE V4-V4.4.0
+PRUEBA PLUGIN V4-V4.4.0
