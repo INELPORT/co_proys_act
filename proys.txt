@@ -1,0 +1,100 @@
+Altenglan-V4.3.0
+Arzbach-V2
+Aschbach-V4.3.1
+Attenhausen-V4.3.0
+Aue-V4.3.0
+Bad Ems-V4.4.0
+Badersleben-V4.4.0
+Bedesbach-V4.3.0
+Birkenfeld-V1
+Bodenheim-V2
+Bosenbach-V4.3.1
+Braubach-V4.3.1
+Brauneberg-V2
+Dachsenhausen-V4.3.1
+Dahlheim-V4.4.0
+Dausenau-V4.4.0
+Dessighofen-V4.3.0
+Dienethal-V4.3.0
+Dornholzhausen-V4.3.0
+Eilenstedt-V4.4.0
+Enkirch-V2
+Erdesbach-V4.3.1
+Filsen-V4.3.1
+Fockelberg-V4.4.0
+Gau-Bischofsheim-V2
+Geisig-V4.3.0
+Glanbrucken-V4.3.1
+Gleina-V4.4.0
+Gräfenhainichen-V2
+Groß Quenstedt-V4.4.0
+Gusenburg_Grimburg-V2
+Heckligen-V2
+Hedersleben-V4.4.0
+Herchweiler-V4.3.1
+Hömberg-V3.11.6
+Hoppstädten-Weiersbach-V1
+Hundsbach-V2
+Kardosf-V2
+Kaub-V4.3.1
+Kell am See-V2
+Kemmenau-V4.4.0
+Kommen-V2
+Korborn-V4.3.0
+Kusel-V4.3.0
+Laucha-V2
+Longkamp_Kommen-V2
+Lörzweiler_Harzheim-V2
+Lykershausen-V4.4.0
+Maßweiler-V4.4.0
+Meisenheim-V4.3.0
+Merxheim-V4.3.0
+Miellen-V4.3.1
+Misselberg-V4.3.0
+Monzelfeld-V4.3.0
+Mozenfeld-V2
+Mozingen-V4.3.0
+Mülheim and der Mosel-V1
+Nassau-V3.11.6
+Nassau V4-V4.4.0
+Nerzweiler-V4.4.0
+Neunkirchen am Potzbeg-V4.3.1
+Niederalben-V4.3.1
+Nochern-V4.4.0
+Obernhof-V4.3.0
+Offenbach-Hundheim-V4.4.0
+Pabstorf-V4.3.1
+Patersberg-V4.4.0
+Pfeffelbach-V4.3.0
+Prath-V4.4.0
+Rammelsbach-V4.3.0
+Rathsweiler-V4.3.1
+Reichenberg-V4.3.1
+Reichweiler-V4.3.0
+Reinsfeld-V2
+Reitzenhain-V4.3.1
+Rivenich-V1
+Ruthweiler-V4.3.0
+Rutsweiler Am Glan-V4.4.0
+Sankt Julian -V4.3.1
+Sauerthal-V4.4.0
+Schellweiler -V4.3.1
+Schillingen-V2
+Schlanstedt-V4.4.0
+Schwanebeck-V4.4.0
+Schwanebeck 2-V4.4.0
+Schweighausen-V4.3.0
+Seelbach-V4.3.0
+Sehlem-V2
+Selchenbach-V4.3.1
+Selke-Aue-V4.4.0
+Sulzbach-V4.3.0
+Thallichtenberg -V4.3.0
+Theisbergstegen-V4.3.1
+Theisbergstegen -V4.3.1
+Ulmet-V4.3.0
+Veldenz-V1
+Weinähr-V4.3.0
+Winden-V3.11.6
+Zimmerschied-V4.3.0
+CONTROL-OBRA-TEMPLATE V4-V4.4.0
