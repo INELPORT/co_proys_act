@@ -3,10 +3,12 @@ Arzbach-V2
 Aschbach-V4.3.1
 Attenhausen-V4.3.0
 Aue-V4.3.0
+Auel-V4.4.0
 Bad Ems-V4.4.0
 Badersleben-V4.4.0
 Bedesbach-V4.3.0
 Birkenfeld-V1
+Blomberg-V4.4.0
 Bodenheim-V2
 Bosenbach-V4.3.1
 Braubach-V4.3.1
@@ -35,6 +37,7 @@ Herchweiler-V4.3.1
 Hömberg-V3.11.6
 Hoppstädten-Weiersbach-V1
 Hundsbach-V2
+Kamp-Bornhofen-V4.4.0
 Kardosf-V2
 Kaub-V4.3.1
 Kell am See-V2
@@ -60,6 +63,7 @@ Nassau V4-V4.4.0
 Nerzweiler-V4.4.0
 Neunkirchen am Potzbeg-V4.3.1
 Niederalben-V4.3.1
+Nievern-V4.4.0
 Nochern-V4.4.0
 Obernhof-V4.3.0
 Offenbach-Hundheim-V4.4.0
@@ -94,6 +98,7 @@ Theisbergstegen-V4.3.1
 Theisbergstegen -V4.3.1
 Ulmet-V4.3.0
 Veldenz-V1
+Wegeleben-V4.4.0
 Weinähr-V4.3.0
 Weyer-V4.4.0
 Winden-V3.11.6
