@@ -16,6 +16,7 @@ Brauneberg-V2
 Dachsenhausen-V4.3.1
 Dahlheim-V4.4.0
 Dausenau-V4.4.0
+Dedeleben-V4.4.0
 Dessighofen-V4.3.0
 Dienethal-V4.3.0
 Dornholzhausen-V4.3.0
@@ -91,7 +92,7 @@ Schweighausen-V4.3.0
 Seelbach-V4.3.0
 Sehlem-V2
 Selchenbach-V4.3.1
-Selke - Aue-V4.4.0
+Selke-Aue-V4.4.0
 Sulzbach-V4.3.0
 Thallichtenberg -V4.3.0
 Theisbergstegen-V4.3.1
