@@ -3,8 +3,8 @@ Anderbeck-V4.4.0
 Arzbach-V2
 Aschbach-V4.3.1
 Attenhausen-V4.3.0
-Aue-V4.3.0
 Auel-V4.4.0
+Aue-V4.3.0
 Bad Ems-V4.4.0
 Badersleben-V4.4.0
 Bedesbach-V4.3.0
@@ -46,7 +46,9 @@ Kardosf-V2
 Kaub-V4.3.1
 Kell am See-V2
 Kemmenau-V4.4.0
+Kestert-V4.4.0
 Kommen-V2
+Konken-V4.4.0
 Korborn-V4.3.0
 Kusel-V4.3.0
 Laucha-V2
@@ -62,14 +64,15 @@ Monzelfeld-V4.3.0
 Mozenfeld-V2
 Mozingen-V4.3.0
 Mülheim and der Mosel-V1
-Nassau-V3.11.6
 Nassau V4-V4.4.0
+Nassau-V3.11.6
 Nerzweiler-V4.4.0
 Neunkirchen am Potzbeg-V4.3.1
 Niederalben-V4.3.1
 Nievern-V4.4.0
 Nochern-V4.4.0
 Obernhof-V4.3.0
+Oberstaufenbach-V4.4.0
 Offenbach-Hundheim-V4.4.0
 Pabstorf-V4.3.1
 Patersberg-V4.4.0
@@ -89,16 +92,16 @@ Sauerthal-V4.4.0
 Schellweiler-V4.3.1
 Schillingen-V2
 Schlanstedt-V4.4.0
-Schwanebeck-V4.4.0
 Schwanebeck 2-V4.4.0
+Schwanebeck-V4.4.0
 Schweighausen-V4.3.0
 Seelbach-V4.3.0
 Sehlem-V2
 Selchenbach-V4.3.1
 Selke_Aue-V4.4.0
 Sulzbach-V4.3.0
-Thallichtenberg -V4.3.0
-Theisbergstegen -V4.3.1
+Thallichtenberg-V4.3.0
+Theisbergstegen-V4.3.1
 Ulmet-V4.3.0
 Veldenz-V1
 Wegeleben-V4.4.0
