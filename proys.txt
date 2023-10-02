@@ -82,9 +82,9 @@ Reitzenhain-V4.3.1
 Rivenich-V1
 Ruthweiler-V4.3.0
 Rutsweiler Am Glan-V4.4.0
-Sankt Julian -V4.3.1
+Sankt Julian-V4.3.1
 Sauerthal-V4.4.0
-Schellweiler -V4.3.1
+Schellweiler-V4.3.1
 Schillingen-V2
 Schlanstedt-V4.4.0
 Schwanebeck-V4.4.0
