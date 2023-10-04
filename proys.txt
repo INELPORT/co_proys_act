@@ -71,6 +71,7 @@ Neunkirchen am Potzbeg-V4.3.1
 Niederalben-V4.3.1
 Nievern-V4.4.0
 Nochern-V4.4.0
+Nünschweiler-V4.3.1
 Obernhof-V4.3.0
 Oberstaufenbach-V4.4.0
 Offenbach-Hundheim-V4.4.0
