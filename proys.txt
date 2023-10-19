@@ -85,6 +85,7 @@ Reichenberg-V4.3.1
 Reichweiler-V4.3.0
 Reinsfeld-V2
 Reitzenhain-V4.3.1
+Rieschweiler-Mühlbach-V4.4.0
 Rivenich-V1
 Ruthweiler-V4.3.0
 Rutsweiler Am Glan-V4.4.0
