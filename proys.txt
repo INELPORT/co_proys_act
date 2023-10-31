@@ -22,6 +22,7 @@ Dessighofen-V4.3.0
 Dienethal-V4.3.0
 Dingelstedt-V4.3.1
 Dornholzhausen-V4.3.0
+Duchroth-V4.4.0
 Eilenstedt-V4.4.0
 Enkirch-V2
 Erdesbach-V4.3.1
@@ -41,6 +42,8 @@ Hinzweiler-V4.4.0
 Hömberg-V3.11.6
 Hoppstädten-Weiersbach-V1
 Hundsbach-V2
+Jeckenbach-V4.4.0
+Jettenbach-V4.4.0
 Kamp-Bornhofen-V4.4.0
 Kardosf-V2
 Kaub-V4.3.1
@@ -52,9 +55,11 @@ Konken-V4.4.0
 Korborn-V4.3.0
 Kusel-V4.3.0
 Laucha-V2
+Lohnweiler-V4.4.0
 Longkamp_Kommen-V2
 Lörzweiler_Harzheim-V2
 Lykershausen-V4.4.0
+Martinstein-V4.4.0
 Maßweiler-V4.4.0
 Meisenheim-V4.3.0
 Merxheim-V4.3.0
@@ -69,11 +74,14 @@ Nassau V4-V4.4.0
 Nerzweiler-V4.4.0
 Neunkirchen am Potzbeg-V4.3.1
 Niederalben-V4.3.1
+Niederhausen-V4.4.0
 Nievern-V4.4.0
 Nochern-V4.4.0
+Nordharz Part1-V4.4.0
 Nünschweiler-V4.3.1
 Obernhof-V4.3.0
 Oberstaufenbach-V4.4.0
+Odernheim am Glan-V4.4.0
 Offenbach-Hundheim-V4.4.0
 Pabstorf-V4.3.1
 Patersberg-V4.4.0
