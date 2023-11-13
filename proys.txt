@@ -24,6 +24,7 @@ Dingelstedt-V4.3.1
 Dornholzhausen-V4.3.0
 Duchroth-V4.4.0
 Eilenstedt-V4.4.0
+Einollen-V4.4.0
 Enkirch-V2
 Erdesbach-V4.3.1
 Filsen-V4.3.1
@@ -35,6 +36,7 @@ Gleina-V4.4.0
 Gräfenhainichen-V2
 Groß Quenstedt-V4.4.0
 Gusenburg_Grimburg-V2
+Harsleben-V4.4.0
 Heckligen-V2
 Hedersleben-V4.4.0
 Herchweiler-V4.3.1
@@ -86,6 +88,7 @@ Offenbach-Hundheim-V4.4.0
 Pabstorf-V4.3.1
 Patersberg-V4.4.0
 Pfeffelbach-V4.3.0
+Pohl-V4.4.0
 Prath-V4.4.0
 Rammelsbach-V4.3.0
 Rathsweiler-V4.3.1
