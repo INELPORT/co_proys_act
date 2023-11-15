@@ -7,6 +7,7 @@ Aue-V4.3.0
 Auel-V4.4.0
 Bad Ems-V4.4.0
 Badersleben-V4.4.0
+Bärweiler-V4.4.0
 Bedesbach-V4.3.0
 Birkenfeld-V1
 Blomberg-V4.4.0
@@ -14,6 +15,7 @@ Bodenheim-V2
 Bosenbach-V4.3.1
 Braubach-V4.3.1
 Brauneberg-V2
+Callbach-V4.3.1
 Dachsenhausen-V4.3.1
 Dahlheim-V4.4.0
 Dausenau-V4.4.0
@@ -108,6 +110,7 @@ Schlanstedt-V4.4.0
 Schwanebeck-V4.4.0
 Schwanebeck 2-V4.4.0
 Schweighausen-V4.3.0
+Schweinschied2-V4.4.0
 Seelbach-V4.3.0
 Sehlem-V2
 Selchenbach-V4.3.1
