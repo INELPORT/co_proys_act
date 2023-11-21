@@ -15,7 +15,7 @@ Bodenheim-V2
 Bosenbach-V4.3.1
 Braubach-V4.3.1
 Brauneberg-V2
-Callbach-V4.3.1
+Callbach-V4.4.0
 Dachsenhausen-V4.3.1
 Dahlheim-V4.4.0
 Dausenau-V4.4.0
@@ -79,6 +79,7 @@ Nerzweiler-V4.4.0
 Neunkirchen am Potzbeg-V4.3.1
 Niederalben-V4.3.1
 Niederhausen-V4.4.0
+Niederstaufenbach-V4.4.0
 Nievern-V4.4.0
 Nochern-V4.4.0
 Nordharz Part1-V4.4.0
