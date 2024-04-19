@@ -133,4 +133,8 @@ Weinähr-V4.3.0
 Weyer-V4.4.0
 Winden-V3.11.6
 Zimmerschied-V4.3.0
+Oberhausen an der nahe-V4.4.0
+Oberwies-V4.4.0
+Burgsponheim-V4.4.0
+Barntrup-V4.4.0
 PRUEBA PLUGIN V4-V4.4.0
