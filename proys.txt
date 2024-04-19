@@ -133,8 +133,24 @@ Weinähr-V4.3.0
 Weyer-V4.4.0
 Winden-V3.11.6
 Zimmerschied-V4.3.0
+Burgsponheim-V4.4.0
 Oberhausen an der nahe-V4.4.0
 Oberwies-V4.4.0
-Burgsponheim-V4.4.0
+Nordharz-V4.4.0
+Boos-V4.4.0
+Dietrichingen-V4.4.0
+Dörscheid-V4.4.0
+Einöllen-V4.4.0
+Großsteinhausen-V4.4.0
+Heinzenhausen-V4.4.0
+Höheischweiler-V4.4.0
+Huy -V4.4.0
+Lorch-V4.4.0
+Oberweiler-Tiefenbach-V4.4.0
+Schloßböckelheim-V4.4.0
+Thaleischweiler-Fröschen-V4.4.0
+Walshausen-V4.4.0
+Weinsheim-V4.4.0
+Wolfstein-V4.4.0
 Barntrup-V4.4.0
 PRUEBA PLUGIN V4-V4.4.0
