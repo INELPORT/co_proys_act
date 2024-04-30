@@ -9,17 +9,14 @@ Aue-V4.3.0
 Auel-V4.4.0
 Bad Ems-V4.4.0
 Badersleben-V4.4.0
-Barntrup-V4.4.0
 Bärweiler-V4.4.0
 Bedesbach-V4.3.0
 Birkenfeld-V1
 Blomberg-V4.4.0
 Bodenheim-V2
-Boos-V4.4.0
 Bosenbach-V4.3.1
 Braubach-V4.3.1
 Brauneberg-V2
-Burgsponheim-V4.4.0
 Callbach-V4.4.0
 Dachsenhausen-V4.3.1
 Dahlheim-V4.4.0
@@ -27,15 +24,12 @@ Dausenau-V4.4.0
 Dedeleben-V4.4.0
 Dessighofen-V4.3.0
 Dienethal-V4.3.0
-Dietrichingen-V4.4.0
 Dingelstedt-V4.3.1
 Ditfurt-V4.4.0
 Dornholzhausen-V4.3.0
-Dörscheid-V4.4.0
 Duchroth-V4.4.0
 Eilenstedt-V4.4.0
 Einollen-V4.4.0
-Einöllen-V4.4.0
 Enkirch-V2
 Erdesbach-V4.3.1
 Filsen-V4.3.1
@@ -46,22 +40,15 @@ Glanbrucken-V4.3.1
 Gleina-V4.4.0
 Gräfenhainichen-V2
 Groß Quenstedt-V4.4.0
-Großsteinhausen-V4.4.0
 Gusenburg_Grimburg-V2
 Harsleben-V4.4.0
 Heckligen-V2
 Hedersleben-V4.4.0
-Heinzenhausen-V4.4.0
 Herchweiler-V4.3.1
-Hettstedt-Burgörner Altdorf POP 3-V4.4.0
-Hettstedt-Walbeck_North POP 5-V4.4.0
-Hettstedt-Walbeck_South POP 4-V4.4.0
 Hinzweiler-V4.4.0
-Höheischweiler-V4.4.0
 Hömberg-V3.11.6
 Hoppstädten-Weiersbach-V1
 Hundsbach-V2
-Huy -V4.4.0
 Jeckenbach-V4.4.0
 Jettenbach-V4.4.0
 Kamp-Bornhofen-V4.4.0
@@ -78,7 +65,6 @@ Laucha-V2
 Lohnweiler-V4.4.0
 Lollschied-V4.4.0
 Longkamp_Kommen-V2
-Lorch-V4.4.0
 Lörzweiler_Harzheim-V2
 Lykershausen-V4.4.0
 Marienfels-V4.4.0
@@ -101,15 +87,11 @@ Niederhausen-V4.4.0
 Niederstaufenbach-V4.4.0
 Nievern-V4.4.0
 Nochern-V4.4.0
-Nordharz-V4.4.0
 Nordharz Part1-V4.4.0
 Nünschweiler-V4.3.1
-Oberhausen an der nahe-V4.4.0
 Obernhof-V4.3.0
 Oberstaufenbach-V4.4.0
 Obertiefenbach-V4.4.0
-Oberweiler-Tiefenbach-V4.4.0
-Oberwies-V4.4.0
 Odernheim am Glan-V4.4.0
 Offenbach-Hundheim-V4.4.0
 Pabstorf-V4.3.1
@@ -133,7 +115,6 @@ Sauerthal-V4.4.0
 Schellweiler-V4.3.1
 Schillingen-V2
 Schlanstedt-V4.4.0
-Schloßböckelheim-V4.4.0
 Schwanebeck-V4.4.0
 Schwanebeck 2-V4.4.0
 Schweighausen-V4.3.0
@@ -143,17 +124,13 @@ Sehlem-V2
 Selchenbach-V4.3.1
 Selke_Aue-V4.4.0
 Sulzbach-V4.3.0
-Thaleischweiler-Fröschen-V4.4.0
 Thallichtenberg-V4.3.0
 Theisbergstegen-V4.3.1
 Ulmet-V4.3.0
 Veldenz-V1
-Walshausen-V4.4.0
 Wegeleben-V4.4.0
 Weinähr-V4.3.0
-Weinsheim-V4.4.0
 Weyer-V4.4.0
 Winden-V3.11.6
-Wolfstein-V4.4.0
 Zimmerschied-V4.3.0
 PRUEBA PLUGIN V4-V4.4.0
