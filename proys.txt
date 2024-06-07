@@ -40,6 +40,7 @@ Enkirch-V2
 Erdesbach-V4.3.1
 Filsen-V4.3.1
 Fockelberg-V4.4.0
+Frucht-V4.4.0
 Gau-Bischofsheim-V2
 Geisig-V4.3.0
 Glanbrucken-V4.3.1
@@ -75,6 +76,7 @@ Konken-V4.4.0
 Korborn-V4.3.0
 Kusel-V4.3.0
 Laucha-V2
+Lindlar-V4.4.0
 Lohnweiler-V4.4.0
 Lollschied-V4.4.0
 Longkamp_Kommen-V2
@@ -82,6 +84,7 @@ Lorch-V4.4.0
 Lörzweiler_Harzheim-V2
 Lykershausen-V4.4.0
 Marienfels-V4.4.0
+Marienheide-V4.4.0
 Martinstein-V4.4.0
 Maßweiler-V4.4.0
 Meisenheim-V4.3.0
